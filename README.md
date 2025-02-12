@@ -1,8 +1,5 @@
 ## Hi there 👋
-# 💫 About Me:
 I'm currently a student focused on Machine Learning and AI.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yeshwanth-dhanasekar-washington/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Tb0x) 
 
